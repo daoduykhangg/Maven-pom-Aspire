@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Aspire" parallel="none" thread-count="3">
+    <listeners>
+        <listener class-name="commons.MethodListener"/>
+    </listeners>
+
+    <parameter name="url" value="https://aspireapp.odoo.com"/>
+    <test name="Run on CHROME UI">
+        <parameter name="browser" value="chrome"/>
+        <classes>
+            <class name="aspire.odoo.Order_01_Create_Product_And_Manufacturing_Order"/>
+        </classes>
+    </test>
+</suite>
