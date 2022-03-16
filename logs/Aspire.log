@@ -578,3 +578,145 @@
 [2022-03-16 02:00:12,471] Create Manufacturing Order - Step 15: Enter to 'Search' textbox with value = WH/MO/02683
 [2022-03-16 02:00:13,036] Create Manufacturing Order - Step 16: Verify new manufacturing order is create with corectted information
 [2022-03-16 02:00:13,127]  -------------------------- PASSED -------------------------- 
+[2022-03-16 10:53:00,113] Precondition - Step 01: Open Aspire website
+[2022-03-16 10:53:27,202] Precondition - Step 02: Enter to 'Email' textbox with value = user@aspireapp.com
+[2022-03-16 10:53:27,345] Precondition - Step 03: Enter to 'Password' textbox with value = @sp1r3app
+[2022-03-16 10:53:27,450] Precondition - Step 04: Click to 'login' button
+[2022-03-16 10:53:29,129] Create Product - Step 01: Click to 'Inventory' link
+[2022-03-16 10:53:29,471] Create Product - Step 02: Click to 'Products' Menu
+[2022-03-16 10:53:30,058] Create Product - Step 03: Click to 'Products' Sub Menu
+[2022-03-16 10:53:30,131] Create Product - Step 04: Click to 'Create' button at Products Page
+[2022-03-16 10:53:31,003] Create Product - Step 05: Enter to 'Product Name' textbox with value = Fastfood3
+[2022-03-16 10:53:32,527] Create Product - Step 06: Click to 'Update Quantity' button
+[2022-03-16 10:53:32,629] Create Product - Step 07: Click to 'Create' button at Update Quantity Page
+[2022-03-16 10:53:33,770] Create Product - Step 08: Enter to 'Counted Quantity' textbox with value = 50.00
+[2022-03-16 10:53:34,019] Create Product - Step 09: Click to 'Save' button at Update Quantity Page
+[2022-03-16 10:53:34,111] Create Product - Step 10: Click to Application icon
+[2022-03-16 10:53:34,304] Create Manufacturing Order - Step 01: Click to 'Manufacturing' link
+[2022-03-16 10:53:34,492] Create Manufacturing Order - Step 02: Click to 'Create' button at Manufacturing order screen
+[2022-03-16 10:53:35,760] Create Manufacturing Order - Step 03: Verify 'Draft' button with title = 'Current state' is displayed
+[2022-03-16 10:53:36,111]  -------------------------- PASSED -------------------------- 
+[2022-03-16 10:53:36,113] Create Manufacturing Order - Step 04: Select to 'Product' dropdown with value = Fastfood3
+[2022-03-16 10:53:37,322] Create Manufacturing Order - Step 05: Click to 'Confirm' button
+[2022-03-16 10:53:37,394] Create Manufacturing Order - Step 06: Verify 'Confirmed' button with title = 'Current state' is displayed
+[2022-03-16 10:53:38,388]  -------------------------- PASSED -------------------------- 
+[2022-03-16 10:53:38,388] Create Manufacturing Order - Step 07: Click to 'Mark as done' button
+[2022-03-16 10:53:38,463] Create Manufacturing Order - Step 08: Click to 'OK' at 'Confirmation' Popup 
+[2022-03-16 10:53:38,604] Create Manufacturing Order - Step 09: Click to 'Apply' button at 'Confirmation' Popup 
+[2022-03-16 10:53:38,956] Create Manufacturing Order - Step 10: Verify 'Done' button with title = 'Current state' is displayed
+[2022-03-16 10:53:39,661]  -------------------------- PASSED -------------------------- 
+[2022-03-16 10:53:39,662] Create Manufacturing Order - Step 11: Click to 'Save' button
+[2022-03-16 10:53:39,788] Create Manufacturing Order - Step 12: Get Value of 'Manufacturing Order' text
+[2022-03-16 10:53:39,913] Create Manufacturing Order - Step 13: Click to 'Manufacturing' link
+[2022-03-16 10:53:40,001] Create Manufacturing Order - Step 14: Click to 'Remove' icon of Manufacturing Orders Search
+[2022-03-16 10:53:40,671] Create Manufacturing Order - Step 15: Enter to 'Search' textbox with value = WH/MO/02684
+[2022-03-16 10:53:41,326] Create Manufacturing Order - Step 16: Verify new manufacturing order is create with corectted information
+[2022-03-16 10:53:41,394]  -------------------------- PASSED -------------------------- 
+[2022-03-16 10:57:41,025] Precondition - Step 01: Open Aspire website
+[2022-03-16 10:58:04,957] Precondition - Step 02: Enter to 'Email' textbox with value = user@aspireapp.com
+[2022-03-16 10:58:05,190] Precondition - Step 03: Enter to 'Password' textbox with value = @sp1r3app
+[2022-03-16 10:58:05,381] Precondition - Step 04: Click to 'login' button
+[2022-03-16 10:58:06,773] Create Product - Step 01: Click to 'Inventory' link
+[2022-03-16 10:58:07,117] Create Product - Step 02: Click to 'Products' Menu
+[2022-03-16 10:58:07,553] Create Product - Step 03: Click to 'Products' Sub Menu
+[2022-03-16 10:58:07,623] Create Product - Step 04: Click to 'Create' button at Products Page
+[2022-03-16 10:58:08,249] Create Product - Step 05: Enter to 'Product Name' textbox with value = Fastfood764
+[2022-03-16 10:58:09,595] Create Product - Step 06: Click to 'Update Quantity' button
+[2022-03-16 10:58:09,714] Create Product - Step 07: Click to 'Create' button at Update Quantity Page
+[2022-03-16 10:58:10,854] Create Product - Step 08: Enter to 'Counted Quantity' textbox with value = 50.00
+[2022-03-16 10:58:11,110] Create Product - Step 09: Click to 'Save' button at Update Quantity Page
+[2022-03-16 10:58:11,201] Create Product - Step 10: Click to Application icon
+[2022-03-16 10:58:11,395] Create Manufacturing Order - Step 01: Click to 'Manufacturing' link
+[2022-03-16 10:58:11,533] Create Manufacturing Order - Step 02: Click to 'Create' button at Manufacturing order screen
+[2022-03-16 10:58:12,751] Create Manufacturing Order - Step 03: Verify 'Draft' button with title = 'Current state' is displayed
+[2022-03-16 10:58:13,096]  -------------------------- PASSED -------------------------- 
+[2022-03-16 10:58:13,099] Create Manufacturing Order - Step 04: Select to 'Product' dropdown with value = Fastfood764
+[2022-03-16 10:58:14,317] Create Manufacturing Order - Step 05: Click to 'Confirm' button
+[2022-03-16 10:58:14,391] Create Manufacturing Order - Step 06: Verify 'Confirmed' button with title = 'Current state' is displayed
+[2022-03-16 10:58:15,203]  -------------------------- PASSED -------------------------- 
+[2022-03-16 10:58:15,203] Create Manufacturing Order - Step 07: Click to 'Mark as done' button
+[2022-03-16 10:58:15,277] Create Manufacturing Order - Step 08: Click to 'OK' at 'Confirmation' Popup 
+[2022-03-16 10:58:15,415] Create Manufacturing Order - Step 09: Click to 'Apply' button at 'Confirmation' Popup 
+[2022-03-16 10:58:15,766] Create Manufacturing Order - Step 10: Verify 'Done' button with title = 'Current state' is displayed
+[2022-03-16 10:58:16,429]  -------------------------- PASSED -------------------------- 
+[2022-03-16 10:58:16,429] Create Manufacturing Order - Step 11: Click to 'Save' button
+[2022-03-16 10:58:16,558] Create Manufacturing Order - Step 12: Get Value of 'Manufacturing Order' text
+[2022-03-16 10:58:16,671] Create Manufacturing Order - Step 13: Click to 'Manufacturing' link
+[2022-03-16 10:58:16,750] Create Manufacturing Order - Step 14: Click to 'Remove' icon of Manufacturing Orders Search
+[2022-03-16 10:58:17,433] Create Manufacturing Order - Step 15: Enter to 'Search' textbox with value = WH/MO/02685
+[2022-03-16 10:58:18,132] Create Manufacturing Order - Step 16: Verify new manufacturing order is create with corectted information
+[2022-03-16 10:58:18,198]  -------------------------- PASSED -------------------------- 
+[2022-03-16 10:59:16,644] Precondition - Step 01: Open Aspire website
+[2022-03-16 10:59:40,641] Precondition - Step 02: Enter to 'Email' textbox with value = user@aspireapp.com
+[2022-03-16 10:59:40,804] Precondition - Step 03: Enter to 'Password' textbox with value = @sp1r3app
+[2022-03-16 10:59:40,951] Precondition - Step 04: Click to 'login' button
+[2022-03-16 10:59:42,463] Create Product - Step 01: Click to 'Inventory' link
+[2022-03-16 10:59:42,776] Create Product - Step 02: Click to 'Products' Menu
+[2022-03-16 10:59:43,201] Create Product - Step 03: Click to 'Products' Sub Menu
+[2022-03-16 10:59:43,275] Create Product - Step 04: Click to 'Create' button at Products Page
+[2022-03-16 10:59:44,005] Create Product - Step 05: Enter to 'Product Name' textbox with value = Fastfood606
+[2022-03-16 10:59:45,586] Create Product - Step 06: Click to 'Update Quantity' button
+[2022-03-16 10:59:45,707] Create Product - Step 07: Click to 'Create' button at Update Quantity Page
+[2022-03-16 10:59:46,857] Create Product - Step 08: Enter to 'Counted Quantity' textbox with value = 50.00
+[2022-03-16 10:59:47,110] Create Product - Step 09: Click to 'Save' button at Update Quantity Page
+[2022-03-16 10:59:47,201] Create Product - Step 10: Click to Application icon
+[2022-03-16 10:59:47,386] Create Manufacturing Order - Step 01: Click to 'Manufacturing' link
+[2022-03-16 10:59:47,523] Create Manufacturing Order - Step 02: Click to 'Create' button at Manufacturing order screen
+[2022-03-16 10:59:48,752] Create Manufacturing Order - Step 03: Verify 'Draft' button with title = 'Current state' is displayed
+[2022-03-16 10:59:49,120]  -------------------------- PASSED -------------------------- 
+[2022-03-16 10:59:49,122] Create Manufacturing Order - Step 04: Select to 'Product' dropdown with value = Fastfood606
+[2022-03-16 10:59:50,351] Create Manufacturing Order - Step 05: Click to 'Confirm' button
+[2022-03-16 10:59:50,433] Create Manufacturing Order - Step 06: Verify 'Confirmed' button with title = 'Current state' is displayed
+[2022-03-16 10:59:51,233]  -------------------------- PASSED -------------------------- 
+[2022-03-16 10:59:51,233] Create Manufacturing Order - Step 07: Click to 'Mark as done' button
+[2022-03-16 10:59:51,302] Create Manufacturing Order - Step 08: Click to 'OK' at 'Confirmation' Popup 
+[2022-03-16 10:59:51,435] Create Manufacturing Order - Step 09: Click to 'Apply' button at 'Confirmation' Popup 
+[2022-03-16 10:59:51,757] Create Manufacturing Order - Step 10: Verify 'Done' button with title = 'Current state' is displayed
+[2022-03-16 10:59:52,435]  -------------------------- PASSED -------------------------- 
+[2022-03-16 10:59:52,435] Create Manufacturing Order - Step 11: Click to 'Save' button
+[2022-03-16 10:59:52,555] Create Manufacturing Order - Step 12: Get Value of 'Manufacturing Order' text
+[2022-03-16 10:59:52,682] Create Manufacturing Order - Step 13: Click to 'Manufacturing' link
+[2022-03-16 10:59:52,756] Create Manufacturing Order - Step 14: Click to 'Remove' icon of Manufacturing Orders Search
+[2022-03-16 10:59:53,437] Create Manufacturing Order - Step 15: Enter to 'Search' textbox with value = WH/MO/02686
+[2022-03-16 10:59:54,212] Create Manufacturing Order - Step 16: Verify new manufacturing order is create with corectted information
+[2022-03-16 10:59:54,897]  -------------------------- PASSED -------------------------- 
+[2022-03-16 11:00:50,633] Precondition - Step 01: Open Aspire website
+[2022-03-16 11:01:14,746] Precondition - Step 02: Enter to 'Email' textbox with value = user@aspireapp.com
+[2022-03-16 11:01:14,930] Precondition - Step 03: Enter to 'Password' textbox with value = @sp1r3app
+[2022-03-16 11:01:15,102] Precondition - Step 04: Click to 'login' button
+[2022-03-16 11:01:15,776] Create Product - Step 01: Click to 'Inventory' link
+[2022-03-16 11:01:30,974] Create Manufacturing Order - Step 01: Click to 'Manufacturing' link
+[2022-03-16 11:01:48,472] Precondition - Step 01: Open Aspire website
+[2022-03-16 11:02:12,470] Precondition - Step 02: Enter to 'Email' textbox with value = user@aspireapp.com
+[2022-03-16 11:02:12,628] Precondition - Step 03: Enter to 'Password' textbox with value = @sp1r3app
+[2022-03-16 11:02:12,797] Precondition - Step 04: Click to 'login' button
+[2022-03-16 11:02:14,377] Create Product - Step 01: Click to 'Inventory' link
+[2022-03-16 11:02:14,717] Create Product - Step 02: Click to 'Products' Menu
+[2022-03-16 11:02:15,179] Create Product - Step 03: Click to 'Products' Sub Menu
+[2022-03-16 11:02:15,268] Create Product - Step 04: Click to 'Create' button at Products Page
+[2022-03-16 11:02:15,941] Create Product - Step 05: Enter to 'Product Name' textbox with value = Fastfood357
+[2022-03-16 11:02:17,322] Create Product - Step 06: Click to 'Update Quantity' button
+[2022-03-16 11:02:17,432] Create Product - Step 07: Click to 'Create' button at Update Quantity Page
+[2022-03-16 11:02:18,563] Create Product - Step 08: Enter to 'Counted Quantity' textbox with value = 50.00
+[2022-03-16 11:02:18,818] Create Product - Step 09: Click to 'Save' button at Update Quantity Page
+[2022-03-16 11:02:18,905] Create Product - Step 10: Click to Application icon
+[2022-03-16 11:02:19,118] Create Manufacturing Order - Step 01: Click to 'Manufacturing' link
+[2022-03-16 11:02:19,265] Create Manufacturing Order - Step 02: Click to 'Create' button at Manufacturing order screen
+[2022-03-16 11:02:20,466] Create Manufacturing Order - Step 03: Verify 'Draft' button with title = 'Current state' is displayed
+[2022-03-16 11:02:20,843]  -------------------------- PASSED -------------------------- 
+[2022-03-16 11:02:20,845] Create Manufacturing Order - Step 04: Select to 'Product' dropdown with value = Fastfood357
+[2022-03-16 11:02:22,079] Create Manufacturing Order - Step 05: Click to 'Confirm' button
+[2022-03-16 11:02:22,168] Create Manufacturing Order - Step 06: Verify 'Confirmed' button with title = 'Current state' is displayed
+[2022-03-16 11:02:23,115]  -------------------------- PASSED -------------------------- 
+[2022-03-16 11:02:23,115] Create Manufacturing Order - Step 07: Click to 'Mark as done' button
+[2022-03-16 11:02:23,190] Create Manufacturing Order - Step 08: Click to 'OK' at 'Confirmation' Popup 
+[2022-03-16 11:02:23,317] Create Manufacturing Order - Step 09: Click to 'Apply' button at 'Confirmation' Popup 
+[2022-03-16 11:02:23,620] Create Manufacturing Order - Step 10: Verify 'Done' button with title = 'Current state' is displayed
+[2022-03-16 11:02:24,332]  -------------------------- PASSED -------------------------- 
+[2022-03-16 11:02:24,332] Create Manufacturing Order - Step 11: Click to 'Save' button
+[2022-03-16 11:02:24,454] Create Manufacturing Order - Step 12: Get Value of 'Manufacturing Order' text
+[2022-03-16 11:02:24,532] Create Manufacturing Order - Step 13: Click to 'Manufacturing' link
+[2022-03-16 11:02:24,641] Create Manufacturing Order - Step 14: Click to 'Remove' icon of Manufacturing Orders Search
+[2022-03-16 11:02:25,313] Create Manufacturing Order - Step 15: Enter to 'Search' textbox with value = WH/MO/02687
+[2022-03-16 11:02:26,016] Create Manufacturing Order - Step 16: Verify new manufacturing order is create with corectted information
+[2022-03-16 11:02:26,099]  -------------------------- PASSED -------------------------- 

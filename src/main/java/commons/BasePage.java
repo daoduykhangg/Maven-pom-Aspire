@@ -69,7 +69,7 @@ public class BasePage {
         waitForElementVisible(driver, parentLocator);
         sendkeyToElement(driver, parentLocator, expectedItem);
         sleepInSecond(1);
-
+        waitForAllElementsVisible(driver, childLocator);
         List<WebElement> options = getElements(driver, childLocator);
         for (WebElement option : options) {
             String actualItem = option.getText();
@@ -83,6 +83,11 @@ public class BasePage {
     protected void pressKeyBoardToElement(WebDriver driver, String locator, Keys key) {
         action = new Actions(driver);
         action.sendKeys(getElement(driver, locator), key).perform();
+    }
+
+    protected void waitForAllElementsVisible(WebDriver driver, String locator) {
+        explicitwait = new WebDriverWait(driver, timeout);
+        explicitwait.until(ExpectedConditions.visibilityOfAllElementsLocatedBy(getByXpath(locator)));
     }
 
     protected void waitForElementVisible(WebDriver driver, String locator) {
