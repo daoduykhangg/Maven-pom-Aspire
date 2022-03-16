@@ -4,6 +4,7 @@
 
 - Description: Create a new product and manufacturing order item
 - Technology: Java, Selenium, TestNG, Maven, Github
+- Design pattern: Page Object Model (POM), Singleton pattern
 - You have installed java 8, download maven build tool and install variable environment
 - 2 ways to run project:
     + Run file runTestCase.xml in src/test/resources
