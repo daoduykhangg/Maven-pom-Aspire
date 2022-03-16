@@ -1,8 +1,0 @@
-commons\BasePage.class
-commons\BaseTest$BrowserName.class
-commons\MethodListener.class
-pageObjects\PageGeneratorManager.class
-pageUIs\LoginPageUI.class
-commons\BaseTest.class
-commons\VerificationFailures.class
-pageObjects\LoginPageObject.class
